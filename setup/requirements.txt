@@ -1,0 +1,14 @@
+pandas==2.*
+numpy==1.*
+scikit-learn==1.*
+xgboost==2.*
+lightgbm==4.*
+torch==2.*
+torchvision==0.*
+pillow==10.*
+matplotlib==3.*
+seaborn==0.*
+shap==0.*
+joblib==1.*
+streamlit==1.*
+tqdm==4.*

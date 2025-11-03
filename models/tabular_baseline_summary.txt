@@ -1,0 +1,13 @@
+Tabular Baseline Model Summary
+======================================================================
+
+Best Model: XGBOOST
+
+XGBOOST:
+  Train: MAE=$69,835 | R²=0.9023 | MAPE=10.55%
+  Val  : MAE=$233,987 | R²=0.3541 | MAPE=27.65%
+
+LIGHTGBM:
+  Train: MAE=$80,711 | R²=0.8691 | MAPE=11.98%
+  Val  : MAE=$253,910 | R²=0.2735 | MAPE=30.06%
+
